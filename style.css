@@ -1,3 +1,7 @@
+body {
+  background-color: powderblue;
+}
+
 h1{
   color:green;
 }
@@ -21,4 +25,9 @@ main{
 }
 
 ul{border-style: solid;
+  
+}
+
+ul{
+  margin: 50px;
 }
